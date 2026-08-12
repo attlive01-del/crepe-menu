@@ -1,0 +1,8 @@
+{
+  "appId": "com.crepecart.menu",
+  "appName": "عربة الكريب",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

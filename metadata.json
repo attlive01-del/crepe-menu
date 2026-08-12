@@ -1,0 +1,6 @@
+{
+  "name": "عربة الكريب - قائمة الطعام وإدارة الأسعار",
+  "description": "تطبيق إدارة قائمة طعام عربة الكريب مع إمكانية تعديل الفئات والأسعار، وعرض المنيو للزبائن مع دعم QR Code وربط Supabase والتصدير إلى Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
